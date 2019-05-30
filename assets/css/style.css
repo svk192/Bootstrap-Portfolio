@@ -1,0 +1,126 @@
+body{
+  
+    background-image: url("../images/green_dust_scratch.png");
+}
+
+
+/* body{
+    margin:0px;
+    /* background:#4aaaa5; 
+    background-image: url("../images/green_dust_scratch.png");
+}
+.header {
+    height:75px;
+    background:#ffffff;
+    border:1px solid #cccccc;
+    /* width:960px; 
+    margin:0px auto;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+ 
+}
+
+.logo {
+    position: relative;
+    float: left;
+    /* line-height: 10px; 
+    padding: 25px;
+    margin-left: 150px;
+    background:#4aaaa5;
+    color: white;
+    font-size: 25px
+    
+    }
+
+.header-right {
+position: relative;
+float: right;
+margin-right: 100px;
+/* line-height: 10px; 
+
+}
+.header a{
+    position: relative;
+    top: 10px;
+padding: 10px;
+line-height: 50px;
+color: #777777;
+
+
+}
+
+.Content {
+    width:960px;
+    background: white;
+    border: 1px solid #CCC;
+    margin: 20px 150px;
+    border: 20 px;
+ padding: 30px; 
+overflow:auto;
+line-height: 25px   ;
+color:#777777   ; 
+ font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+h1{
+
+    /* line-height: 10px; 
+    padding: 20px 20px 20px 0px;
+    font-size: 25px;
+    color: #4aaaa5;
+    font-weight: bold;
+    border-bottom: 1px solid #b9b4b4;
+    /* margin:10px; 
+
+}
+
+img { position: relative; float: left; padding: 10px 15px 10px 0px;
+    width:200px;height:200px; }
+
+p{position: relative; float:right; margin: 15px 0px; 
+    /* padding: 15px 0px 10px 0px; 
+}
+
+footer{
+    margin-top: 20px;
+    border-top: 8px solid #4aaaa5;
+   position: relative; 
+   bottom: 0px;
+   width: 100%;
+   padding: 10px 0;
+   color: #fff;
+   background-color: #666666;
+   text-align: center;
+   font-size: 55%
+
+}
+
+.button{
+
+  background:#4aaaa5;
+    color: white;
+    font-size: 15px;
+    padding: 11px 25px;
+    border:1px solid #4aaaa5;
+}
+
+.form{
+
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10px 0px;
+}
+
+td {
+    position: relative;
+    width:200px;height:200px; 
+}
+td span {
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px 60px;
+    font-size: 25px;
+} */
